@@ -29,8 +29,8 @@ Welcome to **Snippet** - your personal music discovery platform! Snippet allows 
  
 ## 📹 Video Demo
 
-Check out the to see Snippet in action!
 
+[![Check out the to see Snippet in action!](https://www.youtube.com/watch?v=E2X1xF4ID6g)]
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=E2X1xF4ID6g" frameborder="0" allowfullscreen></iframe>
 
 
