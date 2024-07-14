@@ -26,6 +26,13 @@ Welcome to **Snippet** - your personal music discovery platform! Snippet allows 
   - Target Instrumentalness
   - Target Tempo
   - ... and so much more
+ 
+## 📹 Video Demo
+
+Check out the to see Snippet in action!
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=E2X1xF4ID6g" frameborder="0" allowfullscreen></iframe>
+
 
 ## 🚀 Technologies Used
 
@@ -44,11 +51,6 @@ Snippet is perfect for:
 - **Playlist Curators**: Find similar music to build your perfect playlist.
 - **Producers & DJs**: Search for samples with niche filtering options like popularity, genre, and tempo.
 - **Casual Listeners**: Easily find music that fits your mood and preferences.
-
-## 📹 Video Demo
-
-Check out our [video demo](#) to see Snippet in action!
-
 
 
 ## 📈 Future Plans
